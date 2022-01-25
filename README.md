@@ -5,7 +5,7 @@
 This is a repository for resources and notebooks completed as part of the IBM Data Science Professional Certificate.
 
 **Course Links:**\
-https://www.edx.org/professional-certificate/ibm-data-science\
+https://www.edx.org/professional-certificate/ibm-data-science \
 https://www.coursera.org/professional-certificates/ibm-data-science
 
 **Modules:**\
