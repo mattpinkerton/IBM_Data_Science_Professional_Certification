@@ -18,7 +18,7 @@ https://www.coursera.org/professional-certificates/ibm-data-science
 07: Analyzing Data with Python\
 08: Visualizing Data with Python\
 09: Machine Learning with Python: A Practical Introduction\
-10: Data Science and Machine Learning Capstone Project\
+10: Data Science and Machine Learning Capstone Project
 
 **Instructors:**\
 Rav Ahuja, Alex Aklson, Aije Egwaikhide, Svetlana Levitan, Romeo Kienzler, Polong Lin, Joseph Santarcangelo, Azim Hirjani, Hima Vasudevan, Saishruthi Swaminathan, Saeed Aghabozorgi, Yan Luo
