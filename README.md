@@ -1,6 +1,6 @@
-# IBM Data Science Professional Certification
-
 ![ViewCount](https://views.whatilearened.today/views/github/mattpinkerton/IBM_Data_Science_Professional_Certification.svg?cache=remove)
+
+# IBM Data Science Professional Certification
 
 ![image](https://user-images.githubusercontent.com/85677826/150887276-c3f1e275-7ebb-4a88-b785-e4f76a61fd5d.png)
 
